@@ -1,1 +1,1 @@
-# odin-project-sign-up-form
+This project focuses on the creation of a mock sign-up form.
